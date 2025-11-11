@@ -1,0 +1,17 @@
+# Dependências Python para ServCel Extractor + Alarmística
+
+# Web Scraping
+selenium>=4.15.0
+
+# Análise de Dados
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Gráficos
+matplotlib>=3.7.0
+
+# Banco de Dados
+mysql-connector-python>=8.0.0
+
+# API REST para Zabbix
+flask>=3.0.0
