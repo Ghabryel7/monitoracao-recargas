@@ -339,24 +339,15 @@ Contribuições são bem-vindas! Por favor:
 4. Push para a branch (`git push origin feature/MinhaFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 👤 Autor
 
 **Ghabryel Carvalho**
 
 - GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu.email@exemplo.com
-
-## 🙏 Agradecimentos
-
-- Equipe NOC pela colaboração e feedback
-- Comunidade Python pela excelente documentação
-- Mantenedores do Selenium WebDriver
-
+- LinkedIn: [Ghabryel Lucas Soares Carvalho](https://www.linkedin.com/in/ghabryel-lucas-4a462a171)
+- Email: ghabryellucas@hotmail.com
+  
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
